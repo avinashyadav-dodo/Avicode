@@ -1,0 +1,2 @@
+Enter the principal value:Enter the rate:Enter the time:Simple Interest = 40.000000
+Compound Interest = 40.399910
