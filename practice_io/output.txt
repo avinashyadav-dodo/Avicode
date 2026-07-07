@@ -1,0 +1,5 @@
+Enter a first number
+Enter a second number
+Enter a third number
+Enter a fourth number
+888 is greatest
